@@ -36,3 +36,5 @@ Codigo_FK INTEGER,
 FOREIGN KEY(Codigo_FK) REFERENCES Entidade (Codigo)
 )
 
+--Alteração do Miguel
+
